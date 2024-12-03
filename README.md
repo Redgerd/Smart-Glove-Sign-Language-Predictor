@@ -1,7 +1,3 @@
-Certainly! Here's a more formal and structured version of the README, tailored for a conference paper context:
-
----
-
 # ASL-Sensor-Dataglove-Dataset
 
 ## Abstract
