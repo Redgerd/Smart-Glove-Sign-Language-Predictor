@@ -20,9 +20,9 @@ This project introduces an **IoT-enabled assistive glove** for translating gestu
 2. **Processing**: Arduino Nano for sensor data collection and Bluetooth transmission.  
 3. **Mobile App**: Flutter-based app with FastAPI backend for real-time gesture recognition.  
 
-## Mobile Application  
+### Mobile Application  
 
-Access the mobile application here: [Flutter Mobile App]([https://example.com/flutter-app](https://github.com/hba777/sign_glove_application)).  
+Access the mobile application here: [Flutter Mobile App](https://github.com/hba777/sign_glove_application).  
 
 ## Dataset  
 
